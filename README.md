@@ -11,6 +11,6 @@ u(1,t) = 0, t >= 0,
 
 The second problem was the following:
 Solving u_t = nu*u_xx over x = [0,1], and t > 0
-IC: u(x,0) = cos(pi*x/2)
+IC: u(x,0) = cos(pi\*x/2)
 BC: u(0,t) = 0, t >= 0,
 BC: u(1,t) = 0, t >= 0,
